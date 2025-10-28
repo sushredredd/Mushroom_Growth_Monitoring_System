@@ -183,14 +183,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - Built with guidance from cultivation best practices
 - Inspired by the need for systematic monitoring in controlled environments
 
-## 📧 Support
-
-For issues, questions, or suggestions:
-- Open an issue on GitHub
-- Refer to the built-in field hints for data entry guidance
-
-## 🔄 Changelog
-
 ### Version 1.0.0 (2025-10-28)
 - Initial release
 - Three growth phase monitoring
